@@ -4,9 +4,9 @@ Ladelaenge
 Bodenflaeche
 Laderaum
 Abstandszeichen 
-GHS_Etikette
-Gefahrengut_Etikette
-UN_Etikette
+tbd
+Gefahrenzettel
+Gefahrguttafel
 TBD_1
 TBD_2
 TBD_3
